@@ -1,2 +1,4 @@
-# metaLearningReading
-Reading list for meta learning.
+# Meta Learning
+
+Resource list for getting upto speed in meta learning
+
